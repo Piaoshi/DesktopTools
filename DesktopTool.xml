@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>DesktopTool Settings</comment>
+<entry key="items">CopyChange,Ruler,HashTool,Snapshot</entry>
+<entry key="useitems">CopyChange,Ruler,HashTool,Snapshot</entry>
+<entry key="copyChange_items">1</entry>
+<entry key="ruler_button">1</entry>
+<entry key="mainButton">CopyChange</entry>
+<entry key="copyChange_button">0</entry>
+<entry key="copyChange_items_0">
+|	|:| {1,},.., </entry>
+</properties>
