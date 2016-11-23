@@ -9,8 +9,9 @@ A desktop tools composite written in Java-桌面工具合集（Java实现)
 - JRE envirement is needed.
 - Download the DesktopTools.jar.
 - Mostly, you can run it with double click. If not,
--- 1, Commmond line: "java -jar DesktopTools.jar".
--- 2, Rright click --> open with --> Java Runtime
+   1, Commmond line: "java -jar DesktopTools.jar".
+   2, Rright click --> open with --> Java Runtime
+
 ## Note
 1. The source file are written with UTF-8 and unit line delimiter('\n')
 2. The used outer package are located in directory lib/
